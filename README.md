@@ -1,5 +1,5 @@
 # Determinant-Calculator
-computes the determinant of a n x n matrix using cofactor expansion
+Computes the determinant of a n x n matrix using cofactor expansion.
 
 User Instructions:
 
